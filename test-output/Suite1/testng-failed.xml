@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Command line test b3befd5d-4f41-41f6-aa02-6b0c3f28b8d4">
+    <classes>
+      <class name="org.testing.TestScripts.Final_TC1"/>
+      <class name="org.testing.TestScripts.Final_TC2"/>
+      <class name="org.testing.TestScripts.Final_TC3"/>
+    </classes>
+  </test> <!-- Command line test b3befd5d-4f41-41f6-aa02-6b0c3f28b8d4 -->
+</suite> <!-- Failed suite [Suite1] -->
